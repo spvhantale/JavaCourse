@@ -1,0 +1,21 @@
+Q. Write step by step guide to run a Hello World program on CMD using Notepad.
+
+Ans:
+  1.Write a Java code inside a note pad
+
+public class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello, World!");
+    }
+}
+   2. Save the file as .Java
+	Save the file in folder as .Java file
+   3. Open CMD(command Prompt)
+	Open the cmd inside the folder that has file or in cmd go to that directory
+	
+	cd directoryName
+   4. Compile the Java program
+	Javac HelloWorld.java
+   5. Run the program
+	Java HelloWorld
+   In last you will get the result			

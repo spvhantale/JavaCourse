@@ -1,0 +1,4 @@
+Question 6
+
+if you try to extend the two class then it will not available in java.If you try to do that it will create a ambiguity error that is why java does not support the multiple inheritance.
+That is why we use interface to do the multiple inheritance

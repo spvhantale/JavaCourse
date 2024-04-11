@@ -1,0 +1,6 @@
+String    StringBuilder stringBuffer
+ 8          0                1
+
+In string when we concat then the string create new memory location and it will take time
+In stringbuilder is mutable it will update the stringbuilder without creating new stringbuilder
+In stringbuffer is mutable but it is thread safe that comes with cost that is why it will take some time

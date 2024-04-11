@@ -1,0 +1,4 @@
+Question 8
+
+When the subclass implement the abstract class then it will give the free to implement the parent method and define the their type.
+subclass has comman behavour of driving  so there is no need to implement that methods in different class

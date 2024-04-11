@@ -1,0 +1,7 @@
+Question 5
+
+By making the fields private it wll restrict the direct access to them from outside the class.By doing this it will enhance the security.
+By providing the setter getter it will give more access to modify with validation or verifaction of inputs
+By providing the getter methods provide the controlled access to the fields.
+
+By making the access modifiers impacts the security and data usablity.

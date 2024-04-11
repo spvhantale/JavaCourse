@@ -1,0 +1,2 @@
+If need to create or reverse the string in multithread then we can use the stringbuffer because it has the synchronized methods
+But if you need in single thread then it is better to use stringbuilder because the performance will be increased.
